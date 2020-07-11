@@ -1,0 +1,21 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(30, 30, 30) !important;
+}
+h1{
+    color:white;
+    display:inline;
+    max-width: 100px !important;
+    text-align: center;   
+    
+}
+button{
+    max-width: 100px !important;
+}
+.container{
+    max-width: 300px !important ;
+    margin: auto !important;
+}
